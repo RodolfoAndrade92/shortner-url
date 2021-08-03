@@ -4,7 +4,7 @@ API de cadastro e "encurtador" de URL
 ## PRÉ-REQUISITOS
 
 * Ter instalado o plugin **lombok** na IDE onde será executada a aplicação.
-* Ter acesso a internet.
+* Ter acesso a internet (acesso ao MongoDB ATLAS).
 
 ## TÉCNOLOGIAS UTILIZADAS
 * Java 11 (SpringBoot 2.5.3)
